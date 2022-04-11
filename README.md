@@ -1,2 +1,2 @@
-# Sign-up-formm
+# Sign-up-form
 The Odin Project assignment. 
